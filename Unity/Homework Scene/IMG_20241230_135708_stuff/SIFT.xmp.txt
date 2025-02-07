@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<camera name="test">
+   <calibration cx="1632" cy="918" fx="1538.7429" fy="1538.7429" h="1836" lense="16.5 mm"
+                w="3264"/>
+   <extrinsics>
+      <rotation>0.598640880625 -0.799006080931 -0.056730756028 0.079918785613 0.130047344399 -0.988281678430 0.797020754906 0.587091961152 0.141707252459</rotation>
+      <translation>3.243875598969 2.550056839216 26.920009054951</translation>
+   </extrinsics>
+   <calcs n_indsel="75" n_matches="482" reference_image="IMG_20241230_135656"/>
+</camera>

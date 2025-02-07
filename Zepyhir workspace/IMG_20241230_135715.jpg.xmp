@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<camera name="IMG_20241230_135715.jpg">
+    <calibration cameraMaker="Xiaomi" cameraModel="2201117TY" lense="1.6 mm" w="3264" h="1836" fx="1537.54532494" fy="1537.54532494" cx="1697.37805056" cy="978.651810397" k1="0" k2="0" p1="0" p2="0" k3="0" skew="0" name=""/>
+    <extrinsics>
+        <rotation>0.694716040655 -0.716887926298 -0.0586627989775 -0.0616381093851 0.0219227387132 -0.997857773933 0.71663823951 0.696843665864 -0.0289575381789</rotation>
+        <translation>-1.28818759369 1.97694832581 28.6604066931</translation>
+    </extrinsics>
+</camera>

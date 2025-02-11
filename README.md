@@ -10,7 +10,7 @@ Mathematical Foundations: Discussion of the theoretical background behind the me
 Results Analysis: Evaluation of the reconstructed model, camera pose estimation accuracy, and comparisons of different feature matching techniques.
 
 ## Structure of the repository
- 
+<pre>
 │── Documentation/           # Project documentation and reports  
 │── Matlab Scripts/          # MATLAB scripts for processing and camera pose estimation  
 │   ├── EsempioFiore/        # Scripts related to the "Fiore Method" alignment method  
@@ -26,7 +26,7 @@ Results Analysis: Evaluation of the reconstructed model, camera pose estimation 
 │   ├── calc_visibility.py   # Computes the new visibility from LoFTR matching points   
 │   ├── mean.py              # Measures data for analysis  
 │── Zephyr workspace/        # Project files from 3D Zephyr 
-
+</pre>
 ## Improvements  
 - **Automated MATLAB Workflow**: Every MATLAB script includes a file picker to allow easy selection of input files.  
 - **Refactored MATLAB Code**: Refactored MATLAB Code: Common code has been moved to the Utils/ folder for better organization and reusability.

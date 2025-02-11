@@ -18,11 +18,13 @@ Results Analysis: Evaluation of the reconstructed model, camera pose estimation 
 │   ├── MatlabScripts/       # Script to retrive camera parameters for Unity  
 │   ├── Utils/               # Utility functions for MATLAB processing  
 │   ├── Visibility_and_Pose/ # Scripts for camera pose from visibility file  
-│── Unity/                   # Unity project for VR scene integration  
+│── Unity/                   # Unity projects for VR scene integration  
+|   ├── Homework Scene       # Implementation of images to VR wokflow and camera pose estimation
+|   ├── Interactive Scene    # Interactive scene  
 │── Utility Scripts/         # Python scripts for additional processing  
-│   ├── calc_visibility.py   # Computes the new visibility from LoFTR matching points
-│   ├── create_img_stuff.py  # Compress jpg, xml and visibility files 
-│   ├── mean.py              # Averages data for analysis  
+|   ├── create_img_stuff.py  # Compress jpg, xml and visibility files
+│   ├── calc_visibility.py   # Computes the new visibility from LoFTR matching points   
+│   ├── mean.py              # Measures data for analysis  
 │── Zephyr workspace/        # Project files from 3D Zephyr 
 
 ## Improvements  

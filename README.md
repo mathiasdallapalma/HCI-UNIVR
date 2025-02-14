@@ -2,12 +2,7 @@
 This project aims to reconstruct real-world structures in VR using photogrammetry and camera pose estimation. 
 The repository include several script to automatize the procedure for the construction of a Unity scene and to evaluate the proposed method of camera pose estimation using feature matching using two different methods SIFT and LoFTR.
 ## Documentation
-The Documentation folder contains a detailed explanation of the entire workflow, including:
-
-Project Choices: Justification for key decisions made throughout the project.
-Implementation Details: In-depth descriptions of specific components, including scripts and algorithms.
-Mathematical Foundations: Discussion of the theoretical background behind the methods used.
-Results Analysis: Evaluation of the reconstructed model, camera pose estimation accuracy, and comparisons of different feature matching techniques.
+The Documentation folder contains a PDF file with the project paper and a PowerPoint (PPTX) file for the oral presentation. These materials provide a detailed explanation of the entire workflow, covering project choices, implementation details, mathematical foundations, and results analysis.
 
 ## Structure of the repository
 <pre>

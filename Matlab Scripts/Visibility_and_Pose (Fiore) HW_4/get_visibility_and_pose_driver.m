@@ -75,7 +75,7 @@ addpath '../EsempioFiore';
 imshow(Img);
 hold on;
 plot(p2D(:,1), p2D(:,2),'r.');
-Compose the PPM combining the intrinsics and computed extrinsics:
+%Compose the PPM combining the intrinsics and computed extrinsics:
 P1=K*G;
 [u1,v1] = proj(P1,p3D);
 plot(u1,v1,'bo');
